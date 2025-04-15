@@ -125,5 +125,5 @@ instructions = tk.Label(root, text="Toggle the button to start/stop listening \n
 instructions.pack(pady=10)
 
 # Run the Tkinter event loop
-root.geometry("400x400")
+root.geometry("400x500")
 root.mainloop()
